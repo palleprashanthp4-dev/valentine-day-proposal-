@@ -8,7 +8,7 @@ A beautiful and interactive **Valentine's Day Proposal Website** created with HT
 
 ## 📸 Screenshot
 
-![Valentine Day Proposal Screenshot](screenshot.png)
+![Valentine Day Proposal Screenshot](https://github.com/palleprashanthp4-dev/valentine-day-proposal-/blob/main/Screenshot%202026-08-20%20211924.png)
 
 > Add your project screenshot to the repository as **`screenshot.png`**.
 
